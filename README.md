@@ -200,8 +200,10 @@
 - [melonport](https://melonport.com/) 数字资产交易所 [源码](https://github.com/melonproject)
 
 ### Quantitative Trading 量化交易
+- [catalyst](http://enigma.co) 集成notebook/zipline/cctv [源码](https://github.com/enigmampc/catalyst)
 - CCXT – 加密数字货币交易所交易组件[源码](https://github.com/ccxt/ccxt)
 - [Zipline](http://www.zipline.io/) Python 交易策略组件 [源码](https://github.com/quantopian/zipline)
+- 量化投资资源汇总[EliteQuant](https://gitee.com/EliteQuant/EliteQuant)
 
 ### Game 游戏
 
