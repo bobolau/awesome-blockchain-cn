@@ -199,6 +199,10 @@
 - [augur](https://augur.net/) 对赌交易所 [源码](https://github.com/AugurProject)
 - [melonport](https://melonport.com/) 数字资产交易所 [源码](https://github.com/melonproject)
 
+### Quantitative Trading 量化交易
+- CCXT – 加密数字货币交易所交易组件[源码](https://github.com/ccxt/ccxt)
+- [Zipline](http://www.zipline.io/) Python 交易策略组件 [源码](https://github.com/quantopian/zipline)
+
 ### Game 游戏
 
 - [CryptoKitties](https://www.cryptokitties.co/) 以太猫
